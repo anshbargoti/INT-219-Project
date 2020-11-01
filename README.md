@@ -1,2 +1,2 @@
 # INT-219-Project
-Restaurant website
+GobbleIt Restaurant website
